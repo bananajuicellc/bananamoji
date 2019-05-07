@@ -2,10 +2,20 @@
 
 Pixel art stickers expressing every emotion.
 
-![Party Fox](public/img/fox/resized-320px/fox_party.png)
-![Nerd Fox](public/img/fox/resized-320px/fox_nerd.png)
-![Sleeping Fox](public/img/fox/resized-320px/fox_sleeping.png)
-![Wink Fox](public/img/fox/resized-320px/fox_stuck_out_tongue_winking_eye.png)
+![Party Fox](fox/fox_party.png)
+![Nerd Fox](fox/fox_nerd.png)
+![Sleeping Fox](fox/fox_sleeping.png)
+![Wink Fox](fox/fox_winking_tongue_out.png)
+
+![Party Tulip](tulip/tulip_party.png)
+![Nerd Tulip](tulip/tulip_nerd.png)
+![Sleeping Tulip](tulip/tulip_sleeping.png)
+![Wink Tulip](tulip/tulip_winking_tongue_out.png)
+
+![Party Giraffe](giraffe/giraffe_party.png)
+![Nerd Giraffe](giraffe/giraffe_nerd.png)
+![Sleeping Giraffe](giraffe/giraffe_sleeping.png)
+![Wink Giraffe](giraffe/giraffe_winking_tongue_out.png)
 
 ## License
 
